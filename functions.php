@@ -116,11 +116,6 @@ function _8am_scripts() {
 add_action( 'wp_enqueue_scripts', '_8am_scripts' );
 
 /**
- * Implement the Custom Header feature.
- */
-require get_template_directory() . '/includes/custom-header.php';
-
-/**
  * Custom template tags for this theme.
  */
 require get_template_directory() . '/includes/template-tags.php';
