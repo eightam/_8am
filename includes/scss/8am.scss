@@ -15,9 +15,22 @@
 @import "lib/forms";
 @import "lib/buttons";
 
+// Font Awesome
+@import "fa/variables";
+@import "fa/mixins";
+@import "fa/path";
+@import "fa/core";
+@import "fa/larger";
+@import "fa/fixed-width";
+@import "fa/list";
+@import "fa/bordered-pulled";
+@import "fa/spinning";
+@import "fa/rotated-flipped";
+@import "fa/stacked";
+@import "fa/icons";
+
 // Components
 @import "lib/component-animations";
-@import "lib/glyphicons";
 @import "lib/dropdowns";
 @import "lib/button-groups";
 @import "lib/input-groups";
